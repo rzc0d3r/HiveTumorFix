@@ -1,0 +1,3 @@
+displayName = Hive Tumor Fix
+author = rzc0d3r
+version = 1.0.0

@@ -1,0 +1,5 @@
+--- English ---
+Changes the Max Life of the Hive Tumor (from Calamity Mod) from 10 to 2000 (in a world with the GetFixedBoi seed)
+
+--- Russian ---
+Изменяет максимальный запас здоровья Опухоли Улья (из Calamity Mod) с 10 до 2000 (в мире с сидом GetFixedBoi)
