@@ -1,4 +1,4 @@
-# HiveTumorFix
+# Hive Tumor Fix
 
 ![](https://github.com/rzc0d3r/HiveTumorFix/blob/main/icon_workshop.png)
 
